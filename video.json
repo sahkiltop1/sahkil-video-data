@@ -1,17 +1,34 @@
 {
   "videoSection": true,
   "adultSection": true,
+
   "videoFolders": [
     {
       "category": "Songs",
-      "folderUrl": "https://drive.google.com/drive/folders/1ANhAS7xIGL6V_CPnOmFMh5wT3k9omvaZ?usp=sharing",
+      "folderUrl": "https://drive.google.com/drive/folders/1ANhAS7xIGL6V_CPnOmFMH5wT3k9omvaZ?usp=sharing",
       "enabled": true
     }
   ],
+
   "adultFolders": [
     {
       "category": "Adult 1",
       "folderUrl": "https://drive.google.com/drive/folders/1-kLOMHvLppxZb51PAdIbFb2_Uonlyhv_?usp=sharing",
+      "enabled": true
+    },
+    {
+      "category": "Adult 2",
+      "folderUrl": "https://drive.google.com/drive/folders/1-xERDlSlCyLI-pVkt4Y_ssJZ_3-mxiLw?usp=drive_link",
+      "enabled": true
+    },
+    {
+      "category": "Adult 3",
+      "folderUrl": "https://drive.google.com/drive/folders/1V7b3MZALRPhW2GqONqpRI7GsRW8x8fmc?usp=sharing",
+      "enabled": true
+    },
+    {
+      "category": "Adult 4",
+      "folderUrl": "https://drive.google.com/drive/folders/15ZRcXM3YcoVL1yI_IvHez99WRoQ6WHAB?usp=sharing",
       "enabled": true
     }
   ]
