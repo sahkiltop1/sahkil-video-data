@@ -22,6 +22,16 @@
       "enabled": true
     },
     {
+      "category": "xxxx",
+      "folderUrl": "xxx",
+      "enabled": true
+    },
+    {
+      "category": "Animation",
+      "folderUrl": "xxx",
+      "enabled": true
+    },
+    {
       "category": "Adams Sweet Agony",
       "folderUrl": "https://drive.google.com/drive/folders/1PpgCFMD_gX8Hzmiz4WLeDh_ZyNbLq5-S",
       "enabled": true
