@@ -3,17 +3,17 @@
   "adultSection": true,
 
   "videoFolders": [
-    {
-      "category": "Songs",
-      "folderUrl": "https://drive.google.com/drive/folders/1ANhAS7xIGL6V_CPnOmFMH5wT3k9omvaZ?usp=sharing",
-      "enabled": true
-    },
-    {
-      "category": "Songs",
-      "folderUrl": "https://drive.google.com/drive/folders/1jMa5uZHdWYKNe0kXkU4rLiFI50c_UJWC?usp=sharing",
-      "enabled": true
-    }
-  ],
+  {
+    "category": "Songs",
+    "folderUrl": "https://drive.google.com/drive/folders/1ANhAS7xIGL6V_CPnOmFMH5wT3k9omvaZ?usp=sharing",
+    "enabled": true
+  },
+  {
+    "category": "Movies",
+    "folderUrl": "https://drive.google.com/drive/folders/1jMa5uZHdWYKNe0kXkU4rLiFI50c_UJWC?usp=sharing",
+    "enabled": true
+  }
+]
 
   "adultFolders": [
     {
