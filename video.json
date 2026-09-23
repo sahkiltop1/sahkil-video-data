@@ -1,16 +1,16 @@
 {
+  "password": "223311",
   "videoSection": true,
   "adultSection": true,
-
   "videoFolders": [
-  {
-    "category": "Songs",
-    "folderUrl": "https://drive.google.com/drive/folders/1ANhAS7xIGL6V_CPnOmFMH5wT3k9omvaZ?usp=sharing",
-    "enabled": true
-  },
+    {
+      "category": "Songs",
+      "folderUrl": "https://drive.google.com/drive/folders/1ANhAS7xIGL6V_CPnOmFMH5wT3k9omvaZ?usp=sharing",
+      "enabled": true
+    },
     {
       "category": "Aura",
-      "folderUrl": "https://drive.google.com/drive/folders/1ANhAS7xIGL6V_CPnOmFMh5wT3k9omvaZ",
+      "folderUrl": "https://drive.google.com/drive/folders/1ANhAS7xIGL6V_CPnOmFMH5wT3k9omvaZ",
       "enabled": true
     },
     {
@@ -18,13 +18,12 @@
       "folderUrl": "xxx",
       "enabled": true
     },
-  {
-    "category": "🔥TIKTOK ",
-    "folderUrl": "https://drive.google.com/drive/folders/1jMa5uZHdWYKNe0kXkU4rLiFI50c_UJWC?usp=sharing",
-    "enabled": true
-  }
-]
-
+    {
+      "category": "🔥TIKTOK ",
+      "folderUrl": "https://drive.google.com/drive/folders/1jMa5uZHdWYKNe0kXkU4rLiFI50c_UJWC?usp=sharing",
+      "enabled": true
+    }
+  ],
   "adultFolders": [
     {
       "category": "আমেরিকান সেক্স",
@@ -82,6 +81,5 @@
       "enabled": true
     }
   ],
-
   "apkUrl": "https://drive.google.com/file/d/1cL5BEFmLrypk1LgxLuQM8ZaIzjBDs4bi/view?usp=sharing"
 }
