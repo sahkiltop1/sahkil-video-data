@@ -7,12 +7,12 @@
     {
       "type": "image",
       "title": "Image Banner",
-      "url": "IMAGE_URL_HERE"
+      "url": "https://drive.google.com/file/d/1YHCx76RPm-FWMuEBCe6nLUMwDCJU_SHH/view"
     },
     {
       "type": "text",
       "title": "Welcome",
-      "content": "Welcome to Photo App"
+      "content": "Welcome to Love Stream"
     },
     {
       "type": "video",
