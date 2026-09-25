@@ -1,8 +1,30 @@
 {
   "password": "AK",
+
   "bannerUrl": "https://drive.google.com/file/d/1YHCx76RPm-FWMuEBCe6nLUMwDCJU_SHH/view?usp=sharing",
+
+  "banners": [
+    {
+      "type": "image",
+      "title": "Image Banner",
+      "url": "IMAGE_URL_HERE"
+    },
+    {
+      "type": "text",
+      "title": "Welcome",
+      "content": "Welcome to Photo App"
+    },
+    {
+      "type": "video",
+      "title": "Video Banner",
+      "url": "https://www.youtube.com/watch?v=kLzlWZu0KsQ&list=RDMMkLzlWZu0KsQ&start_radio=1&pp=0gcJCf8COCosWNin"
+    }
+  ],
+
   "videoSection": true,
+
   "adultSection": true,
+
   "videoFolders": [
     {
       "category": "Songs",
@@ -20,6 +42,7 @@
       "enabled": true
     }
   ],
+
   "adultFolders": [
     {
       "category": "আমেরিকান সেক্স",
@@ -77,5 +100,6 @@
       "enabled": true
     }
   ],
+
   "apkUrl": "https://drive.google.com/file/d/1dDFwIHdu1HVHrAtw0F6ZEarpBYSfBCXz/view?usp=sharing"
 }
