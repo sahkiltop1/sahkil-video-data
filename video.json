@@ -1,7 +1,7 @@
 {
   "password": "AK",
 
-  "bannerUrl": "https://drive.google.com/file/d/1QeDRsoUvWZnbNMJqVjgEqSe6_tNbjP8O/view?usp=drivesdk",
+  "bannerUrl": "",
 
   "banners": [
     {
@@ -11,13 +11,13 @@
     },
     {
       "type": "text",
-      "title": "Welcome",
+      "title": "ツꕶαዙᏦᵢᏞ☯『PC』",
       "content": "Welcome to Love Stream"
     },
     {
       "type": "video",
       "title": "Video Banner",
-      "url": "https://drive.google.com/file/d/1t2YTLrs1wWAj3rk6a_c4szoNOuZrHVua/view?usp=sharing"
+      "url": ""
     }
   ],
 
