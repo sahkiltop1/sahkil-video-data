@@ -1,1 +1,15 @@
-
+{
+  "schema_version": 1,
+  "redeem_codes": [
+    {
+      "transaction_id": "DKJ6NO4REO",
+      "active": true,
+      "reward_xp": 1000
+    },
+    {
+      "transaction_id": "DKJ6NO4RE9",
+      "active": true,
+      "reward_xp": 1000
+    }
+  ]
+}
