@@ -1,8 +1,7 @@
+
 {
   "password": "sahkil",
-
   "bannerUrl": "",
-
   "banners": [
     {
       "type": "image",
@@ -20,15 +19,11 @@
       "url": ""
     }
   ],
-  
   "imageRootFolderUrl": "https://drive.google.com/drive/folders/1WuYVolALob-fy2agYNmu9ngtqyM5gXQT",
   "music_folder_url": "https://drive.google.com/drive/folders/1bvmbUmPDT5VY3PsWUXFhwcLayjkR_jdQ?usp=drive_link",
-
-  
   "videoSection": true,
-
   "adultSection": true,
-
+  "adultRootFolderUrl": "https://drive.google.com/drive/folders/1p8z8SPDqjDMb0edkKfgzsx6kImr_uNUE?usp=sharing",
   "videoFolders": [
     {
       "category": "Songs",
@@ -40,7 +35,7 @@
       "folderUrl": "https://drive.google.com/drive/folders/1ANhAS7xIGL6V_CPnOmFMh5wT3k9omvaZ",
       "enabled": true
     },
-     {
+    {
       "category": "bangla",
       "folderUrl": "https://drive.google.com/drive/folders/1BRMQ55da3hoFa_4YQa4_26krmNCW9rhw?usp=sharing",
       "enabled": true
@@ -51,70 +46,5 @@
       "enabled": true
     }
   ],
-
-  "adultFolders": [
-    {
-      "category": "আমেরিকান সেক্স",
-      "folderUrl": "https://drive.google.com/drive/folders/1-kLOMHvLppxZb51PAdIbFb2_Uonlyhv_?usp=sharing",
-      "enabled": true
-    },
-    {
-      "category": "ভাইরাল ক্রিয়েটর",
-      "folderUrl": "https://drive.google.com/drive/folders/1-xERDlSlCyLI-pVkt4Y_ssJZ_3-mxiLw?usp=drive_link",
-      "enabled": true
-    },
-    {
-      "category": "Animation",
-      "folderUrl": "https://drive.google.com/drive/folders/16SfwH9r2JaYOTExYuvS9kpywMYGMLDt8",
-      "enabled": true
-    },
-    {
-      "category": "Adams Sweet Agony",
-      "folderUrl": "https://drive.google.com/drive/folders/1PpgCFMD_gX8Hzmiz4WLeDh_ZyNbLq5-S",
-      "enabled": true
-    },
-    {
-      "category": "গ্রুপ সেক্স",
-      "folderUrl": "https://drive.google.com/drive/folders/1V7b3MZALRPhW2GqONqpRI7GsRW8x8fmc?usp=sharing",
-      "enabled": true
-    },
-    {
-      "category": "হট সেক্স",
-      "folderUrl": "https://drive.google.com/drive/folders/15ZRcXM3YcoVL1yI_IvHez99WRoQ6WHAB?usp=sharing",
-      "enabled": true
-    },
-    {
-      "category": "Editing clip",
-      "folderUrl": "https://drive.google.com/drive/folders/1PnO0hdBIWillTSPkpejp0dRfF9REt9WC?usp=sharing",
-      "enabled": true
-    },
-    {
-      "category": "JAPANESE wife boyfriend",
-      "folderUrl": "https://drive.google.com/drive/folders/16mOANxfWPFDqOA6ocdP_iPXdAydK18kF",
-      "enabled": true
-    },
-    {
-      "category": "Japanese",
-      "folderUrl": "https://drive.google.com/drive/folders/1SLnDsjAUsf0wYS7or1mpTtkoFMl2Aw_P",
-      "enabled": true
-    },
-    {
-      "category": "Japanese hot series",
-      "folderUrl": "https://drive.google.com/drive/folders/1_fW2rdlCllra0CknXY4RdZb-rylbt61b",
-      "enabled": true
-    },
-
-    {
-      "category": "JAPANESE_YOUNG_WIFE",
-      "folderUrl": "https://drive.google.com/drive/folders/16h9HbmOsXv2ZOrjmG-QWJX6Xyu6dHsFh",
-      "enabled": true
-    },
-    {
-      "category": "Japanese wife",
-      "folderUrl": "https://drive.google.com/file/d/16tCtpskZhw72wQbrheF4ta2F6RItdKq0/view?usp=sharing",
-      "enabled": true
-    }
-  ],
-
   "apkUrl": "https://drive.google.com/drive/folders/1KZiDC3Bu-tZUnGHy82qXKym3gDDE4PiH?usp=sharing"
 }
